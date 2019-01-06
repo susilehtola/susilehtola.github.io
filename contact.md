@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contact me
 permalink: /contact/
 ---
-
-### Contact me
 
 work email: [susi.lehtola@helsinki.fi](mailto:susi.lehtola@helsinki.fi)
 
