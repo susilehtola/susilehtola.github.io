@@ -1,3 +1,9 @@
+---
+layout: page
+title: Curriculum vitae
+permalink: /cv/
+---
+
 ### Personal information
 
 **First names:** <ins>Susi</ins> Samuli
