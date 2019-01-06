@@ -1,3 +1,9 @@
+---
+layout: page
+title: List of publications
+permalink: /publications/
+---
+
 ![](images/PCCP_cover.jpg)
 
 If you're looking for my PhD thesis, you can find it here:
