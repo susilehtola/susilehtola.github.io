@@ -91,7 +91,8 @@ administrator level. Fluent with shell scripting and awk.
 | fall 2006 | Quantum Mechanics I | undergraduate | study circle coach | 
 | fall 2005 | Mathematical Methods for Physicists | undergraduate | teaching assistant | 
 
-### Language skills 
+### Language skills
+
 | Language | Level |
 | -------- | ----- |
 | Finnish | Native |
