@@ -1,3 +1,9 @@
+---
+layout: page
+title: General
+permalink: /
+---
+
 I am a researcher working at the [Department of Chemistry](http://www.helsinki.fi/kemia/english/) of the [University of Helsinki](http://www.helsinki.fi/en). My research focuses on electronic structure theories, that is, mathematical models for the behavior of molecules and molecular clusters, and the computer implementations thereof. See my list of publications [here](publications).
 
 I finished my PhD studies at the [Department of Physics of the University of Helsinki](http://www.physics.helsinki.fi/english) in 2013, followed by a postdoctorate stint 2013-2014 at the [Department of Applied Physics](http://physics.aalto.fi) at [Aalto University](http://www.aalto.fi/en/). Then, I was at [Lawrence Berkeley National Laboratory](http://lbl.gov/) for three years 2014-2017, working in the [Martin Head-Gordon group](https://mhggroupberkeley.com/) at [University of California, Berkeley](http://www.berkeley.edu). Since fall 2017, I have been working at the University of Helsinki, thanks to a three-year, independent [Academy of Finland](http://www.aka.fi/en/) postdoctoral fellowship.
