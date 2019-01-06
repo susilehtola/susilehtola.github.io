@@ -1,6 +1,3 @@
-## Curriculum vitae
-    
-    
 ### Personal information
 
 **First names:** <ins>Susi</ins> Samuli
