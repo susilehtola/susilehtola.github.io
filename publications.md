@@ -4,7 +4,7 @@ title: List of publications
 permalink: /publications/
 ---
 
-![](images/PCCP_cover.jpg)
+![](/images/PCCP_cover.jpg)
 
 If you're looking for my PhD thesis, you can find it here:
 [Computational modeling of the electron momentum density](http://urn.fi/URN:ISBN:978-952-10-8091-3).
