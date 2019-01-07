@@ -16,7 +16,7 @@ Some preprints of articles currently in review:
  + **S. Lehtola**, Superposition of Atomic Potentials: a simple yet efficient orbital guess for self-consistent field calculations, [arXiv:1810.11659](http://arxiv.org/abs/1810.11659).
  + **S. Lehtola**, M. Dimitrova, and D. Sundholm, Fully numerical electronic structure calculations on diatomic molecules in weak and strong magnetic fields. [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
  
- Here is a list of my peer-reviewed scientific publications in chronological order.
+ Here is a list of my peer-reviewed scientific publications in chronological order. Note that the first five are under my ex first name.
 
 1. **J. Lehtola**, M. Hakala and K. H&auml;m&auml;l&auml;inen, [Structure of liquid linear alcohols](http://pubs.acs.org/doi/abs/10.1021/jp909894y), *J. Phys. Chem. B* **114**, 6426 (2010). DOI:&nbsp;10.1021/jp909894y
 1. T. Pylkk&auml;nen, **J. Lehtola**, M. Hakala, A. Sakko, G. Monaco, S. Huotari and K. H&auml;m&auml;l&auml;inen, [Universal signature of hydrogen bonding in the oxygen K-edge spectrum of alcohols](http://pubs.acs.org/doi/full/10.1021/jp106479a), *J. Phys. Chem. B* **114**, 13076 (2010). DOI:&nbsp;10.1021/jp106479a
