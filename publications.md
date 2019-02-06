@@ -11,14 +11,15 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
  
- + **S. Lehtola**, Hartree&ndash;Fock and hybrid density functional theory calculations of static properties at the complete basis set limit via finite elements. I. Atoms. [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
- + **S. Lehtola**, Hartree&ndash;Fock and hybrid density functional theory calculations of static properties at the complete basis set limit via finite elements. II. Diatomic molecules. [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
+ + **S. Lehtola**, Fully numerical Hartree&ndash;Fock and density functional calculations. I. Atoms. [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
+ + **S. Lehtola**, Fully numerical Hartree&ndash;Fock and density functional calculations. II. Diatomic molecules  [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
  + **S. Lehtola**, M. Dimitrova, and D. Sundholm, Fully numerical electronic structure calculations on diatomic molecules in weak and strong magnetic fields. [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
+ + **S. Lehtola**, A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
  
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
-1. **S. Lehtola**, [An assessment of initial guesses for self-consistent field calculations. Superposition of Atomic Potentials: simple yet efficient](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01089), *J. Chem. Theory Comput.*, in press (2019). DOI:&nbsp;10.1021/acs.jctc.8b01089. [arXiv:1810.11659](http://arxiv.org/abs/1810.11659).
-1. **S. Lehtola**, C. Steigemann, M. J. T. Oliveira, and M. A. L. Marques, [Recent developments in LIBXC &mdash; a comprehensive library of functionals for density functional theory](http://www.sciencedirect.com/science/article/pii/S2352711017300602), *SoftwareX* **7**, 1 (2018). DOI&nbsp;10.1016/j.softx.2017.11.002.
+1. **S. Lehtola**, [Assessment of initial guesses for self-consistent field calculations. Superposition of Atomic Potentials: simple yet efficient](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01089), *J. Chem. Theory Comput.*, in press (2019). DOI:&nbsp;10.1021/acs.jctc.8b01089. [arXiv:1810.11659](http://arxiv.org/abs/1810.11659). **open access**
+1. **S. Lehtola**, C. Steigemann, M. J. T. Oliveira, and M. A. L. Marques, [Recent developments in LIBXC &mdash; a comprehensive library of functionals for density functional theory](http://www.sciencedirect.com/science/article/pii/S2352711017300602), *SoftwareX* **7**, 1 (2018). DOI&nbsp;10.1016/j.softx.2017.11.002. **open access**
 1. **S. Lehtola**, N. M. Tubman, K. B. Whaley, and M. Head-Gordon, [Cluster decomposition of full configuration interaction wave functions: a tool for chemical interpretation of systems with strong correlation](http://aip.scitation.org/doi/full/10.1063/1.4996044), *J. Chem. Phys.* **147**, 154105 (2017). DOI:&nbsp;10.1063/1.4996044. [arXiv:1707.04376](https://arxiv.org/abs/1707.04376)
 1. **S. Lehtola**, J. Parkhill, and M. Head-Gordon, [Orbital optimization in the perfect pairing hierarchy. Applications to full-valence calculations on linear polyacenes](http://www.tandfonline.com/doi/full/10.1080/00268976.2017.1342009), *Mol. Phys.* **116**, 547 (2018), DOI:&nbsp;10.1080/00268976.2017.1342009. [arXiv:1705.01678](https://arxiv.org/abs/1705.01678)
 1. E. &Ouml;. J&oacute;nsson, **S. Lehtola**, M. Puska, and H. J&oacute;nsson, [Theory and applications of generalized Pipek&ndash;Mezey Wannier functions](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00809 ), *J. Chem. Theory Comput.* **13**, 460 (2017). DOI:&nbsp;10.1021/acs.jctc.6b00809. [arXiv:1608.06396](http://arxiv.org/abs/1608.06396)
