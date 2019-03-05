@@ -11,10 +11,11 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
  
- + **S. Lehtola**, Fully numerical Hartree&ndash;Fock and density functional calculations. I. Atoms. [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
- + **S. Lehtola**, Fully numerical Hartree&ndash;Fock and density functional calculations. II. Diatomic molecules  [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
- + **S. Lehtola**, M. Dimitrova, and D. Sundholm, Fully numerical electronic structure calculations on diatomic molecules in weak and strong magnetic fields. [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
- + **S. Lehtola**, A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
+ + **S. Lehtola**, Fully numerical Hartree&ndash;Fock and density functional calculations. I. Atoms, [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
+ + **S. Lehtola**, Fully numerical Hartree&ndash;Fock and density functional calculations. II. Diatomic molecules,  [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
+ + **S. Lehtola**, M. Dimitrova, and D. Sundholm, Fully numerical electronic structure calculations on diatomic molecules in weak and strong magnetic fields, [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
+ + **S. Lehtola**, A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules, [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
+ + C. Shahi, P. Bhattarai, K. Wagle, B. Santra, S. Schwalbe, T. Hahn, J. Kortus, K. A. Jackson, J. E. Peralta, K. Trepte, **S. Lehtola**, N. K. Nepal, H. Myneni, B. Neupane, S. Adhikari, A. Ruzsinszky, Y. Yamamoto, T. Baruah, R. R. Zope, and J. P. Perdew, Stretched or noded orbital densities and self-interaction correction in density functional theory, [arXiv:1903.00611](https://arxiv.org/abs/1903.00611)
  
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
