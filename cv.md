@@ -44,6 +44,8 @@ Master of Science (MSc) in theoretical physics, University of Helsinki, 2008.
 Majors in theoretical physics and physics, minor in mathematics
 
 ### Honors and awards
++ President of computational chemistry section of Finnish Chemical Society, 2018-2019
++ President of computational physics section of Finnish Physical Society, 2019
 + Member of Finnish Academy Club for Young Scientists 2016-2017
 + L&ouml;wdin postdoctoral fellow award, 57th Sanibel Meeting 2017
 + Member of Finnish Academy for Young Scientists 2017-2020
