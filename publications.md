@@ -12,10 +12,10 @@ If you're looking for my PhD thesis, you can find it here:
 Some preprints of articles currently in review:
  
  + **S. Lehtola**, A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules, [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
- + C. Shahi, P. Bhattarai, K. Wagle, B. Santra, S. Schwalbe, T. Hahn, J. Kortus, K. A. Jackson, J. E. Peralta, K. Trepte, **S. Lehtola**, N. K. Nepal, H. Myneni, B. Neupane, S. Adhikari, A. Ruzsinszky, Y. Yamamoto, T. Baruah, R. R. Zope, and J. P. Perdew, Stretched or noded orbital densities and self-interaction correction in density functional theory, [arXiv:1903.00611](http://arxiv.org/abs/1903.00611)
- 
+  
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
+1. C. Shahi, P. Bhattarai, K. Wagle, B. Santra, S. Schwalbe, T. Hahn, J. Kortus, K. A. Jackson, J. E. Peralta, K. Trepte, **S. Lehtola**, N. K. Nepal, H. Myneni, B. Neupane, S. Adhikari, A. Ruzsinszky, Y. Yamamoto, T. Baruah, R. R. Zope, and J. P. Perdew, Stretched or noded orbital densities and self-interaction correction in density functional theory, *J. Chem. Phys.* (2019), in press. [arXiv:1903.00611](http://arxiv.org/abs/1903.00611)
 1. **S. Lehtola**, M. Dimitrova, and D. Sundholm, [Fully numerical electronic structure calculations on diatomic molecules in weak and strong magnetic fields](http://dx.doi.org/10.1080/00268976.2019.1597989), *Mol. Phys.* (2019), DOI:&nbsp;10.1080/00268976.2019.1597989 [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
 1. **S. Lehtola**, [Fully numerical Hartree&ndash;Fock and density functional calculations. II. Diatomic molecules](http://dx.doi.org/10.1002/qua.25944), *Int. J. Quantum Chem.*, e25944 (2019). DOI:&nbsp;10.1002/qua.25944 [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
 1. **S. Lehtola**, [Fully numerical Hartree&ndash;Fock and density functional calculations. I. Atoms](http://dx.doi.org/10.1002/qua.25945), *Int. J. Quantum Chem.*, e25945 (2019). DOI:&nbsp;10.1002/qua.25945 [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
