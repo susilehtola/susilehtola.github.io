@@ -9,7 +9,9 @@ permalink: /publications/
 If you're looking for my PhD thesis, you can find it here:
 [Computational modeling of the electron momentum density](http://urn.fi/URN:ISBN:978-952-10-8091-3).
 
-<!-- Some preprints of articles currently in review: -->
+Some preprints of articles currently in review:
+
+* **S.Lehtola**, Fully numerical calculations on atoms with fractional occupations. Range-separated exchange functionals, [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
  
    
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
