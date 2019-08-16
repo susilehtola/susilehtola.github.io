@@ -4,7 +4,7 @@ title: List of publications
 permalink: /publications/
 ---
 
-![](/images/PCCP_cover.jpg)
+![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
 If you're looking for my PhD thesis, you can find it here:
 [Computational modeling of the electron momentum density](http://urn.fi/URN:ISBN:978-952-10-8091-3).
@@ -16,11 +16,11 @@ Some preprints of articles currently in review:
    
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
-1. **S. Lehtola**, [A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules](http://dx.doi.org/10.1002/qua.25968), *Int. J. Quantum Chem.*, e25968 (2019).  DOI:&nbsp;10.1002/qua.25968 [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
+1. **S. Lehtola**, [A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules](http://dx.doi.org/10.1002/qua.25968), *Int. J. Quantum Chem.* **119**, e25968 (2019).  DOI:&nbsp;10.1002/qua.25968 [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
 1. C. Shahi, P. Bhattarai, K. Wagle, B. Santra, S. Schwalbe, T. Hahn, J. Kortus, K. A. Jackson, J. E. Peralta, K. Trepte, **S. Lehtola**, N. K. Nepal, H. Myneni, B. Neupane, S. Adhikari, A. Ruzsinszky, Y. Yamamoto, T. Baruah, R. R. Zope, and J. P. Perdew, [Stretched or noded orbital densities and self-interaction correction in density functional theory](http://dx.doi.org/10.1063/1.5087065), *J. Chem. Phys.*  **150**, 174102 (2019). DOI:&nbsp;10.1063/1.5087065 [arXiv:1903.00611](http://arxiv.org/abs/1903.00611)
 1. **S. Lehtola**, M. Dimitrova, and D. Sundholm, [Fully numerical electronic structure calculations on diatomic molecules in weak to strong magnetic fields](http://dx.doi.org/10.1080/00268976.2019.1597989), *Mol. Phys.* (2019), DOI:&nbsp;10.1080/00268976.2019.1597989 [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
-1. **S. Lehtola**, [Fully numerical Hartree&ndash;Fock and density functional calculations. II. Diatomic molecules](http://dx.doi.org/10.1002/qua.25944), *Int. J. Quantum Chem.*, e25944 (2019). DOI:&nbsp;10.1002/qua.25944 [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
-1. **S. Lehtola**, [Fully numerical Hartree&ndash;Fock and density functional calculations. I. Atoms](http://dx.doi.org/10.1002/qua.25945), *Int. J. Quantum Chem.*, e25945 (2019). DOI:&nbsp;10.1002/qua.25945 [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
+1. **S. Lehtola**, [Fully numerical Hartree&ndash;Fock and density functional calculations. II. Diatomic molecules](http://dx.doi.org/10.1002/qua.25944), *Int. J. Quantum Chem.* **119**, e25944 (2019). DOI:&nbsp;10.1002/qua.25944 [arXiv:1810.11653](http://arxiv.org/abs/1810.11653).
+1. **S. Lehtola**, [Fully numerical Hartree&ndash;Fock and density functional calculations. I. Atoms](http://dx.doi.org/10.1002/qua.25945), *Int. J. Quantum Chem.* **119**, e25945 (2019). DOI:&nbsp;10.1002/qua.25945 [arXiv:1810.11651](http://arxiv.org/abs/1810.11651).
 1. **S. Lehtola**, [Assessment of initial guesses for self-consistent field calculations. Superposition of Atomic Potentials: simple yet efficient](http://dx.doi.org/10.1021/acs.jctc.8b01089), *J. Chem. Theory Comput.* **15**, 1593 (2019). DOI:&nbsp;10.1021/acs.jctc.8b01089. [arXiv:1810.11659](http://arxiv.org/abs/1810.11659). **open access**
 1. **S. Lehtola**, C. Steigemann, M. J. T. Oliveira, and M. A. L. Marques, [Recent developments in LIBXC &mdash; a comprehensive library of functionals for density functional theory](http://dx.doi.org/10.1016/j.softx.2017.11.002), *SoftwareX* **7**, 1 (2018). DOI&nbsp;10.1016/j.softx.2017.11.002. **open access**
 1. **S. Lehtola**, N. M. Tubman, K. B. Whaley, and M. Head-Gordon, [Cluster decomposition of full configuration interaction wave functions: a tool for chemical interpretation of systems with strong correlation](http://dx.doi.org/10.1063/1.4996044), *J. Chem. Phys.* **147**, 154105 (2017). DOI:&nbsp;10.1063/1.4996044. [arXiv:1707.04376](http://arxiv.org/abs/1707.04376)
