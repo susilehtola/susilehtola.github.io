@@ -11,6 +11,7 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
 
+* **S.Lehtola**, Communication: Curing basis set overcompleteness with pivoted Cholesky decompositions, [arXiv:1911.10372](https://arxiv.org/abs/1911.10372)
 * **S.Lehtola**, Fully numerical calculations on atoms with fractional occupations. Range-separated exchange functionals, [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
  
    
