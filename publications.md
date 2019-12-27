@@ -11,12 +11,12 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
 
-* **S.Lehtola**, Fully numerical calculations on atoms with fractional occupations. Range-separated exchange functionals, [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
+* **S. Lehtola**, Fully numerical calculations on atoms with fractional occupations. Range-separated exchange functionals, [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
  
    
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
-1. **S.Lehtola**, [Curing basis set overcompleteness with pivoted Cholesky decompositions](http://doi.org/10.1063/1.5139948), *J. Chem. Phys.* **151**, 241102 (2019). DOI:&nbsp;10.1063/1.5139948 [arXiv:1911.10372](https://arxiv.org/abs/1911.10372)
+1. **S. Lehtola**, [Curing basis set overcompleteness with pivoted Cholesky decompositions](http://doi.org/10.1063/1.5139948), *J. Chem. Phys.* **151**, 241102 (2019). DOI:&nbsp;10.1063/1.5139948 [arXiv:1911.10372](https://arxiv.org/abs/1911.10372)
 1. **S. Lehtola**, [A review on non-relativistic fully numerical electronic structure calculations on atoms and diatomic molecules](http://doi.org/10.1002/qua.25968), *Int. J. Quantum Chem.* **119**, e25968 (2019).  DOI:&nbsp;10.1002/qua.25968 [arXiv:1902.01431](http://arxiv.org/abs/1902.01431).
 1. C. Shahi, P. Bhattarai, K. Wagle, B. Santra, S. Schwalbe, T. Hahn, J. Kortus, K. A. Jackson, J. E. Peralta, K. Trepte, **S. Lehtola**, N. K. Nepal, H. Myneni, B. Neupane, S. Adhikari, A. Ruzsinszky, Y. Yamamoto, T. Baruah, R. R. Zope, and J. P. Perdew, [Stretched or noded orbital densities and self-interaction correction in density functional theory](http://doi.org/10.1063/1.5087065), *J. Chem. Phys.*  **150**, 174102 (2019). DOI:&nbsp;10.1063/1.5087065 [arXiv:1903.00611](http://arxiv.org/abs/1903.00611)
 1. **S. Lehtola**, M. Dimitrova, and D. Sundholm, [Fully numerical electronic structure calculations on diatomic molecules in weak to strong magnetic fields](http://doi.org/10.1080/00268976.2019.1597989), *Mol. Phys.* (2019), DOI:&nbsp;10.1080/00268976.2019.1597989 [arXiv:1812.06274](http://arxiv.org/abs/1812.06274).
