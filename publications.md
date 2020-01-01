@@ -11,9 +11,10 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
 
-* **S. Lehtola**, Fully numerical calculations on atoms with fractional occupations. Range-separated exchange functionals, [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
-* D. S. Levine, D. Hait, N. M. Tubman, **S. Lehtola**, K. B. Whaley, M. Head-Gordon, CASSCF with extremely large active spaces using the adaptive sampling configuration interaction method, [arXiv:1912.08379](https://arxiv.org/abs/1912.08379)
+* **S. Lehtola**, On the accurate reproduction of strongly repulsive interatomic potentials, [arXiv:1912.12624](https://arxiv.org/abs/1912.12624)
 * **S. Lehtola**, F. Blockhuys, C. Van Alsenoy, An overview of self-consistent field calculations within finite basis sets, [arXiv:1912.12029](https://arxiv.org/abs/1912.12029)
+* D. S. Levine, D. Hait, N. M. Tubman, **S. Lehtola**, K. B. Whaley, M. Head-Gordon, CASSCF with extremely large active spaces using the adaptive sampling configuration interaction method, [arXiv:1912.08379](https://arxiv.org/abs/1912.08379)
+* **S. Lehtola**, Fully numerical calculations on atoms with fractional occupations. Range-separated exchange functionals, [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
  
    
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
