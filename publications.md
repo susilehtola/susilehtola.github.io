@@ -13,11 +13,11 @@ Some preprints of articles currently in review:
 
 * **S. Lehtola**, L. Visscher, E. Engel, Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis sets, [arXiv:2002.02587](https://arxiv.org/abs/2002.02587)
 * **S. Lehtola**, Polarized universal hydrogenic Gaussian basis sets from one-electron ions, [arXiv:2001.04224](https://arxiv.org/abs/2001.04224)
-* **S. Lehtola**, F. Blockhuys, C. Van Alsenoy, An overview of self-consistent field calculations within finite basis sets, [arXiv:1912.12029](https://arxiv.org/abs/1912.12029)
 * D. S. Levine, D. Hait, N. M. Tubman, **S. Lehtola**, K. B. Whaley, M. Head-Gordon, CASSCF with extremely large active spaces using the adaptive sampling configuration interaction method, [arXiv:1912.08379](https://arxiv.org/abs/1912.08379)
    
  Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
+1. **S. Lehtola**, F. Blockhuys, C. Van Alsenoy, An overview of self-consistent field calculations within finite basis sets, *Molecules*, in press (2020). [arXiv:1912.12029](https://arxiv.org/abs/1912.12029)
 1. **S. Lehtola**, On the accurate reproduction of strongly repulsive interatomic potentials, *Phys. Rev. A*, in press (2020). [arXiv:1912.12624](https://arxiv.org/abs/1912.12624)
 1. **S. Lehtola**, [Fully numerical calculations on atoms with fractional occupations and range-separated exchange functionals](http://doi.org/10.1103/PhysRevA.101.012516), *Phys. Rev. A* **101**, 012516 (2020). DOI:&nbsp;10.1103/PhysRevA.101.012516 [arXiv:1908.02528](https://arxiv.org/abs/1908.02528)
 1. **S. Lehtola**, [Curing basis set overcompleteness with pivoted Cholesky decompositions](http://doi.org/10.1063/1.5139948), *J. Chem. Phys.* **151**, 241102 (2019). DOI:&nbsp;10.1063/1.5139948 [arXiv:1911.10372](https://arxiv.org/abs/1911.10372)
