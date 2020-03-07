@@ -11,6 +11,10 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
 
+* A. White, A. Sokolov, A. Pulkin, B. Mussard, C. Sun, E. Sayfutyarova, G. K.-L. Chan, H. Schurkus, H. Pham, J.D. Whitfield,
+J. E. T. Smith, J. D. McClain, J. Hermann, J. J. Eriksen, J. Yu, J. Chen, K. Koh, L. K. Wagner, M. Barbry, M. Motta, M.
+J. Williamson, M. R. Hermes, M. Scheurer, N. Mardirossian, N. Bogdanov, P. Robinson, P. Bao, P. Koval, Q. Sun, S. Banerjee,
+S. Sharma, S. Guo, S.-N. Sun, S. Upadhyay, **S. Lehtola**, T. Zhu, T. Berkelbach, X. Wang, X. Zhang, Y. Gao, and Z. Cui, Recent developments in the PySCF program package, [arXiv:2002.12531](https://arxiv.org/abs/2002.12531)
 * D. G. A. Smith, L. A. Burns, A. C. Simmonett, R. M. Parrish, M. C. Schieber, R. Galvelis, P. Kraus, H. Kruse, R. Di Remigio, A. Alenaizan, A. M. James, **S. Lehtola**, J. P. Misiewicz, M. Scheurer, R. A. Shaw, J. B. Schriber, Y. Xie, Z. L. Glick, D. A. Sirianni, J. S. O’Brien, J. M. Waldrop, A. Kumar, E. G. Hohenstein, B. P. Pritchard, B. R. Brooks, H. F. Schaefer III, A. Yu. Sokolov, K. Patkowski, A. E. DePrince III, U. Bozkaya, R. A. King, F. A. Evangelista, J. M. Turney, T. D. Crawford, and C. D. Sherrill, Psi4 1.4: Open-Source Software for High-Throughput Quantum Chemistry, [chemrXiv:11930031](http://doi.org/10.26434/chemrxiv.11930031.v1)
 * **S. Lehtola**, L. Visscher, E. Engel, Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis sets, [arXiv:2002.02587](https://arxiv.org/abs/2002.02587)
 * **S. Lehtola**, Polarized universal hydrogenic Gaussian basis sets from one-electron ions, [arXiv:2001.04224](https://arxiv.org/abs/2001.04224)
