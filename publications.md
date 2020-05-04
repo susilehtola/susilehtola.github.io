@@ -11,6 +11,7 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
 
+* S. Schwalbe, L. Fiedler, J. Kraus, J. Kortus, K. Trepte, and **S. Lehtola**, PyFLOSIC: Python-based Fermi-Löwdin orbital self-interaction correction, [arxiv:1905.02631v3](https://arxiv.org/abs/1905.02631v3)
 * A. White, A. Sokolov, A. Pulkin, B. Mussard, C. Sun, E. Sayfutyarova, G. K.-L. Chan, H. Schurkus, H. Pham, J.D. Whitfield,
 J. E. T. Smith, J. D. McClain, J. Hermann, J. J. Eriksen, J. Yu, J. Chen, K. Koh, L. K. Wagner, M. Barbry, M. Motta, M.
 J. Williamson, M. R. Hermes, M. Scheurer, N. Mardirossian, N. Bogdanov, P. Robinson, P. Bao, P. Koval, Q. Sun, S. Banerjee,
