@@ -4,7 +4,7 @@ title: Contact me
 permalink: /contact/
 ---
 
-work email: [susi.lehtola@helsinki.fi](mailto:susi.lehtola@helsinki.fi)
+work email: [slehtola@vt.edu](mailto:slehtola@vt.edu)
 
 private email: [susi.lehtola@gmail.com](mailto:susi.lehtola@gmail.com)
 
@@ -12,11 +12,7 @@ publications email: [susi.lehtola@alumni.helsinki.fi](mailto:susi.lehtola@alumni
 
 ```
 Dr Susi Lehtola
-Department of Chemistry
-P.O. Box 55
-FI-00014 University of Helsinki
-FINLAND
+Molecular Sciences Software Institute
+1880 Pratt Drive, Suite 1100
+Blacksburg, VA 24060
 ```
-Physical location:
-	Kumpula campus
-	Chemicum, room B436
