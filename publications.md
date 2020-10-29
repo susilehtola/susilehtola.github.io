@@ -11,7 +11,7 @@ If you're looking for my PhD thesis, you can find it here:
 
 Some preprints of articles currently in review:
 
-* **S. Lehtola** and M. L. Marques, Simple meta-generalization of local density functionals, [arXiv:2006.16835](http://arxiv.org/abs/2006.16835)
+* **S. Lehtola** and M. L. Marques, Meta-local density functionals: a new rung on Jacob's ladder, [arXiv:2006.16835](http://arxiv.org/abs/2006.16835)
   
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
