@@ -13,6 +13,7 @@ Some preprints of articles currently in review:
 
 * **S. Lehtola** and M. L. Marques, Meta-local density functionals: a new rung on Jacob's ladder, [arXiv:2006.16835](http://arxiv.org/abs/2006.16835)
 * **S. Lehtola**, M. Dimitrova, H. Fliegl, and D. Sundholm, Benchmarking magnetizabilities with recent density functionals, [arXiv:2011.06560](http://arxiv.org/abs/2011.06560)
+* R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, Spatial contributions to nuclear magnetic shieldings, [arXiv:2012.03048](https://arxiv.org/abs/2012.03048)
   
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
 
