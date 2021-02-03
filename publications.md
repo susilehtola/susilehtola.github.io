@@ -6,14 +6,11 @@ permalink: /publications/
 
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
-If you're looking for my PhD thesis, you can find it here:
-[Computational modeling of the electron momentum density](http://urn.fi/URN:ISBN:978-952-10-8091-3).
-
 Some preprints of articles currently in review:
 
 * R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, Spatial contributions to nuclear magnetic shieldings, [arXiv:2012.03048](https://arxiv.org/abs/2012.03048)
   
-Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five are under my ex first name.
+Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
 1. **S. Lehtola**, M. Dimitrova, H. Fliegl, and D. Sundholm, Benchmarking magnetizabilities with recent density functionals, *J. Chem. Theory Comput.*, in press (2021). [arXiv:2011.06560](http://arxiv.org/abs/2011.06560)
 1. **S. Lehtola** and M. A. L. Marques, [Meta-local density functionals: a new rung on Jacob's ladder](http://doi.org/10.1021/acs.jctc.0c01147), *J. Chem. Theory Comput.*, in press (2021). DOI:&nbsp;10.1021/acs.jctc.0c01147. [arXiv:2006.16835](http://arxiv.org/abs/2006.16835)
@@ -56,3 +53,6 @@ Here is a list of my peer-reviewed scientific publications in inverse chronologi
 1. T. Pylkk&auml;nen, **J. Lehtola**, M. Hakala, A. Sakko, G. Monaco, S. Huotari and K. H&auml;m&auml;l&auml;inen, [Universal signature of hydrogen bonding in the oxygen K-edge spectrum of alcohols](http://doi.org/10.1021/jp106479a), *J. Phys. Chem. B* **114**, 13076 (2010). DOI:&nbsp;10.1021/jp106479a
 1. **J. Lehtola**, M. Hakala and K. H&auml;m&auml;l&auml;inen, [Structure of liquid linear alcohols](http://doi.org/10.1021/jp909894y), *J. Phys. Chem. B* **114**, 6426 (2010). DOI:&nbsp;10.1021/jp909894y
 {: reversed="reversed"}
+
+My PhD thesis can be found here:
+[Computational modeling of the electron momentum density](http://urn.fi/URN:ISBN:978-952-10-8091-3).
