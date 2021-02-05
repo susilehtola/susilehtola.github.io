@@ -6,12 +6,11 @@ permalink: /publications/
 
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
-Some preprints of articles currently in review:
+<!--Some preprints of articles currently in review:-->
 
-* R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, Spatial contributions to nuclear magnetic shieldings, [arXiv:2012.03048](https://arxiv.org/abs/2012.03048)
-  
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, Spatial contributions to nuclear magnetic shieldings, *J. Phys. Chem. A*, in press (2021). [arXiv:2012.03048](https://arxiv.org/abs/2012.03048)  
 1. **S. Lehtola**, M. Dimitrova, H. Fliegl, and D. Sundholm, Benchmarking magnetizabilities with recent density functionals, *J. Chem. Theory Comput.*, in press (2021). [arXiv:2011.06560](http://arxiv.org/abs/2011.06560)
 1. **S. Lehtola** and M. A. L. Marques, [Meta-local density functionals: a new rung on Jacob's ladder](http://doi.org/10.1021/acs.jctc.0c01147), *J. Chem. Theory Comput.*, in press (2021). DOI:&nbsp;10.1021/acs.jctc.0c01147. [arXiv:2006.16835](http://arxiv.org/abs/2006.16835)
 1. S. Schwalbe, L. Fiedler, J. Kraus, J. Kortus, K. Trepte, and **S. Lehtola**, [PyFLOSIC: Python-based Fermi-Löwdin orbital self-interaction correction](http://doi.org/10.1063/5.0012519), *J. Chem. Phys.* **153**, 084104 (2020). DOI:&nbsp;10.1063/5.0012519. [arXiv:1905.02631](http://arxiv.org/abs/1905.02631)
