@@ -10,7 +10,7 @@ permalink: /publications/
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. G. Bilalbegovi#263;, A. Maksimovi#263;, L. A. Valencic, and **S. Lehtola**, Sulfur molecules in space by X-rays: a computational study, *ACS Earth Space Chem.*, in press (2021).
+1. G. Bilalbegovi&#x0107;, A. Maksimovi&#x0107;, L. A. Valencic, and **S. Lehtola**, Sulfur molecules in space by X-rays: a computational study, *ACS Earth Space Chem.*, in press (2021).
 1. R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, Spatial contributions to nuclear magnetic shieldings, *J. Phys. Chem. A*, in press (2021). [arXiv:2012.03048](https://arxiv.org/abs/2012.03048)  
 1. **S. Lehtola**, M. Dimitrova, H. Fliegl, and D. Sundholm, Benchmarking magnetizabilities with recent density functionals, *J. Chem. Theory Comput.*, in press (2021). [arXiv:2011.06560](http://arxiv.org/abs/2011.06560)
 1. **S. Lehtola** and M. A. L. Marques, [Meta-local density functionals: a new rung on Jacob's ladder](http://doi.org/10.1021/acs.jctc.0c01147), *J. Chem. Theory Comput.* **17**, 943 (2021). DOI:&nbsp;10.1021/acs.jctc.0c01147. [arXiv:2006.16835](http://arxiv.org/abs/2006.16835)
