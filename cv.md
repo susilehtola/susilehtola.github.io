@@ -24,7 +24,7 @@ These are in a rough order of accuracy - Google Scholar is most up to date.
    
 ### Current position
 
-Academy of Finland postdoctoral fellow at University of Helsinki
+Software Scientist at the Molecular Sciences Software Institute at Virginia Tech
 
 [Docent](https://en.wikipedia.org/wiki/Docent) in computational chemistry at University of Helsinki 
 
@@ -41,7 +41,7 @@ Reviewer for the following journals (see also my [Publons profile](https://publo
 Doctor of Philosophy (PhD) in theoretical physics ([PhD thesis here](http://urn.fi/URN:ISBN:978-952-10-8091-3)), University of Helsinki, 2013
 
 Master of Science (MSc) in theoretical physics, University of Helsinki, 2008.
-Majors in theoretical physics and physics, minor in mathematics
+Majors in theoretical physics and physics, minor in mathematics. Specialization in computational physics.
 
 ### Honors and awards
 + President of computational chemistry section of Finnish Chemical Society, 2018-2019
@@ -52,16 +52,18 @@ Majors in theoretical physics and physics, minor in mathematics
 
 ### Computer skills
 
-Fluent in C, C++ and Fortran.<br>
+Fluent in C, C++, Fortran, and Python.<br>
 Experience with MPI and OpenMP parallel programming.
 
 Extensive experience with Red Hat Linux systems both on user and
-administrator level. Fluent with shell scripting and awk.
+administrator level. Packager for Fedora Linux; sponsor and provenpackager status. Fluent with shell scripting and awk.
 
 ### Selected work history
 
 | Year | Position |
 | ---- | -------- |
+| 2020- | Software Scientist |
+| | Molecular Sciences Software Institute at Virginia Tech, United States |
 | 2017-2020 | Academy of Finland postdoctoral fellow |
 | | Department of Chemistry, University of Helsinki, Finland|
 | 2014-2017 | Postdoctoral fellow |
