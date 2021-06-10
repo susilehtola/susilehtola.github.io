@@ -28,7 +28,7 @@ Software Scientist at the Molecular Sciences Software Institute at Virginia Tech
 
 [Docent](https://en.wikipedia.org/wiki/Docent) in computational chemistry at University of Helsinki 
 
-Reviewer for the following journals (see also my [Publons profile](https://publons.com/author/1202953/susi-lehtola)):
+Reviewer for the following journals (see also my [Publons profile](https://publons.com/author/1202953/susi-lehtola) which is probably more up to date):
 + [AIP Advances](https://aip.scitation.org/journal/adv)
 + [Annalen der Physik](https://onlinelibrary.wiley.com/journal/15213889)
 + [Chemical Physics Letters](https://www.sciencedirect.com/journal/chemical-physics-letters)
