@@ -29,10 +29,19 @@ Software Scientist at the Molecular Sciences Software Institute at Virginia Tech
 [Docent](https://en.wikipedia.org/wiki/Docent) in computational chemistry at University of Helsinki 
 
 Reviewer for the following journals (see also my [Publons profile](https://publons.com/author/1202953/susi-lehtola)):
++ [AIP Advances](https://aip.scitation.org/journal/adv)
++ [Annalen der Physik](https://onlinelibrary.wiley.com/journal/15213889)
++ [Chemical Physics Letters](https://www.sciencedirect.com/journal/chemical-physics-letters)
++ [Computational and Theoretical Chemistry](https://www.journals.elsevier.com/computational-and-theoretical-chemistry)
++ [Computer Physics Communications](https://www.journals.elsevier.com/computer-physics-communications)
 + [International Journal of Quantum Chemistry](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-461X)
 + [Journal of Chemical Physics](http://jcp.aip.org/)
 + [Journal of Chemical Theory and Computation](http://pubs.acs.org/journal/jctcce)
++ [Journal of Computational Chemistry](https://onlinelibrary.wiley.com/journal/1096987x)
++ [Journal of Physical Chemistry A](https://pubs.acs.org/journal/jpcafh)
++ [Journal of Physical Chemistry Letters](https://pubs.acs.org/journal/jpclcd)
 + [Molecular Physics](http://www.tandfonline.com/loi/tmph20)
++ [Physical Chemistry Chemical Physics](https://pubs.rsc.org/en/journals/journalissues/cp)
 + [Periodica Polytechnica Chemical Engineering](https://pp.bme.hu/ch)
 + [Radiation Effects and Defects in Solids](http://www.tandfonline.com/toc/grad20/current)
 
