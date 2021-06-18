@@ -10,6 +10,7 @@ permalink: /publications/
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. E. Epifanovsky el al., Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package, *J. Chem. Phys.*, in press (2021).
 1. G. Bilalbegovi&#x0107;, A. Maksimovi&#x0107;, L. A. Valencic, and **S. Lehtola**, [Sulfur molecules in space by X-rays: a computational study](http://doi.org/10.1021/acsearthspacechem.0c00238), *ACS Earth Space Chem.* **5**, 436 (2021). DOI:&nbsp;10.1021/acsearthspacechem.0c00238 **open access**
 1. R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, [Spatial contributions to nuclear magnetic shieldings](http://doi.org/10.1021/acs.jpca.0c10884), *J. Phys. Chem. A* **125**, 1778 (2021). DOI&nbsp;10.1021/acs.jpca.0c10884 [arXiv:2012.03048](http://arxiv.org/abs/2012.03048) **open access**
 1. **S. Lehtola**, M. Dimitrova, H. Fliegl, and D. Sundholm, [Benchmarking magnetizabilities with recent density functionals](http://doi.org/10.1021/acs.jctc.0c01190), *J. Chem. Theory Comput.* **17**, 1457 (2021). DOI:&nbsp;10.1021/acs.jctc.0c01190 [arXiv:2011.06560](http://arxiv.org/abs/2011.06560) **open access** [Erratum](http://doi.org/10.1021/acs.jctc.1c00466)
