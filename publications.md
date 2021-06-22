@@ -6,7 +6,8 @@ permalink: /publications/
 
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
-<!--Some preprints of articles currently in review:-->
+Some preprints of articles currently in review:
+- **S. Lehtola**, Straightforward and accurate automatic auxiliary basis set generation for molecular calculations with atomic orbital basis sets, [arXiv:2106.11081](http://arxiv.org/abs/2106.11081)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
