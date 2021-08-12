@@ -8,6 +8,7 @@ permalink: /publications/
 
 Some preprints of articles currently in review:
 - **S. Lehtola**, Straightforward and accurate automatic auxiliary basis set generation for molecular calculations with atomic orbital basis sets, [arXiv:2106.11081](http://arxiv.org/abs/2106.11081)
+- **S. Lehtola** and A. Karttunen, Free and open source software for computational chemistry education, [chemRxiv:2021-hr1r0](https://doi.org/10.33774/chemrxiv-2021-hr1r0)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
