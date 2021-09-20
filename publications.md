@@ -7,6 +7,7 @@ permalink: /publications/
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
 Some preprints of articles currently in review:
+- K. Trepte, S. Schwalbe, S. Liebing, W. T. Schulze, J. Kortus, H. Myneni, A. V. Ivanov, and **S. Lehtola**, Chemical bonding theories as guides for self-interaction corrected solutions: multiple local minima and symmetry breaking, [arXiv:2109.08199](http://arxiv.org/abs/2109.08199)
 - **S. Lehtola** and A. Karttunen, Free and open source software for computational chemistry education, [chemRxiv:2021-hr1r0](http://doi.org/10.33774/chemrxiv-2021-hr1r0)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
