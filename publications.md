@@ -12,7 +12,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. **S. Lehtola**, Straightforward and accurate automatic auxiliary basis set generation for molecular calculations with atomic orbital basis sets, *J. Chem. Theory Comput.*, in press (2021). DOI:&nbsp;10.1021/acs.jctc.1c00607 [arXiv:2106.11081](http://arxiv.org/abs/2106.11081)
+1. **S. Lehtola**, [Straightforward and accurate automatic auxiliary basis set generation for molecular calculations with atomic orbital basis sets](http://doi.org/10.1021/acs.jctc.1c00607), *J. Chem. Theory Comput.*, in press (2021). DOI:&nbsp;10.1021/acs.jctc.1c00607 [arXiv:2106.11081](http://arxiv.org/abs/2106.11081)
 1. E. Epifanovsky el al., [Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package](http://doi.org/10.1063/5.0055522), *J. Chem. Phys.* **155**, 084801 (2021). DOI:&nbsp;10.1063/5.0055522 **open access**
 1. G. Bilalbegovi&#x0107;, A. Maksimovi&#x0107;, L. A. Valencic, and **S. Lehtola**, [Sulfur molecules in space by X-rays: a computational study](http://doi.org/10.1021/acsearthspacechem.0c00238), *ACS Earth Space Chem.* **5**, 436 (2021). DOI:&nbsp;10.1021/acsearthspacechem.0c00238 **open access**
 1. R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, [Spatial contributions to nuclear magnetic shieldings](http://doi.org/10.1021/acs.jpca.0c10884), *J. Phys. Chem. A* **125**, 1778 (2021). DOI:&nbsp;10.1021/acs.jpca.0c10884 [arXiv:2012.03048](http://arxiv.org/abs/2012.03048) **open access**
