@@ -8,7 +8,7 @@ permalink: /publications/
 
 Some preprints of articles currently in review:
 - M. F. Kasim, **S. Lehtola**, and S. M. Vinko, DQC: a Python program package for Differentiable Quantum Chemistry, [arXiv:2110.11678](http://arxiv.org/2110.11678)
-- **S. Lehtola** and A. Karttunen, Free and open source software for computational chemistry education, [chemRxiv:2021-hr1r0](http://doi.org/10.33774/chemrxiv-2021-hr1r0-v2)
+- **S. Lehtola** and A. Karttunen, Free and open source software for computational chemistry education, [chemRxiv:2021-hr1r0-v2](http://doi.org/10.33774/chemrxiv-2021-hr1r0-v2)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
