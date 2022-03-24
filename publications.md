@@ -11,7 +11,7 @@ permalink: /publications/
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. **S. Lehtola** and A. Karttunen, Free and open source software for computational chemistry education, *Wiley Interdiscip. Rev. Comput. Mol. Sci.*, in press (2022). [chemRxiv:2021-hr1r0-v3](https://doi.org/10.26434/chemrxiv-2021-hr1r0-v3)
+1. **S. Lehtola** and A. Karttunen, [Free and open source software for computational chemistry education](https://doi.org/10.1002/wcms.1610), *Wiley Interdiscip. Rev. Comput. Mol. Sci.*, e1610 (2022). DOI&nbsp;10.1002/wcms.1610 [chemRxiv:2021-hr1r0-v3](https://doi.org/10.26434/chemrxiv-2021-hr1r0-v3)
 1. M. F. Kasim, **S. Lehtola**, and S. M. Vinko, [DQC: a Python program package for Differentiable Quantum Chemistry](https://doi.org/10.1063/5.0076202), *J. Chem. Phys.* **156**, 084801 (2022). DOI&nbsp;10.1063/5.0076202 [arXiv:2110.11678](http://arxiv.org/abs/2110.11678)
 1. K. Trepte, S. Schwalbe, S. Liebing, W. T. Schulze, J. Kortus, H. Myneni, A. V. Ivanov, and **S. Lehtola**, [Chemical bonding theories as guides for self-interaction corrected solutions: multiple local minima and symmetry breaking](https://doi.org/10.1063/5.0071796), *J. Chem. Phys.* **155**, 224109 (2021). DOI:&nbsp;10.1063/5.0071796 [arXiv:2109.08199](http://arxiv.org/abs/2109.08199) **open access**
 1. **S. Lehtola**, [Straightforward and accurate automatic auxiliary basis set generation for molecular calculations with atomic orbital basis sets](https://doi.org/10.1021/acs.jctc.1c00607), *J. Chem. Theory Comput.* **17**, 6886 (2021). DOI:&nbsp;10.1021/acs.jctc.1c00607 [arXiv:2106.11081](http://arxiv.org/abs/2106.11081)
