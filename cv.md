@@ -71,10 +71,10 @@ administrator level. Packager for Fedora Linux; sponsor and provenpackager statu
 
 | Year | Position |
 | ---- | -------- |
+| 2022-2027 | Academy of Finland research fellow |
+| | Department of Chemistry, University of Helsinki, Finland|
 | 2020- | Software Scientist |
 | | Molecular Sciences Software Institute at Virginia Tech, United States |
-| 2017-2020 | Academy of Finland postdoctoral fellow |
-| | Department of Chemistry, University of Helsinki, Finland|
 | 2014-2017 | Postdoctoral fellow |
 | | Chemical Sciences Division, Lawrence Berkeley National Laboratory, United States |
 | 2013-2014 | Postdoctoral researcher |
