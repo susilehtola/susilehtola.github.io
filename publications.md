@@ -7,7 +7,8 @@ permalink: /publications/
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
 
-<!-- Some preprints of articles currently in review: -->
+Some preprints of articles currently in review:
+- **S. Lehtola** and M. A. L. Marques, Many recent density functionals are numerically unstable, [arXiv:2206.14062](http://arxiv.org/abs/2206.14062)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
