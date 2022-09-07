@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- **S. Lehtola** and M. A. L. Marques, Many recent density functionals are numerically unstable, [arXiv:2206.14062](http://arxiv.org/abs/2206.14062)
+- **S. Lehtola** and M. A. L. Marques, Many recent density functionals are numerically ill-behaved, [arXiv:2206.14062](http://arxiv.org/abs/2206.14062)
 - S. Pathak, J. A. Rackers, I. E. López, R. L. Fernández, A. J. Lee, W. P. Bricker, and **S. Lehtola**, Accurate Hellmann-Feynman forces with optimized atom-centered Gaussian basis sets, [arXiv:2207.03587](https://arxiv.org/abs/2207.03587)
 - S. Schwalbe, K. Trepte, and **S. Lehtola**, How good are recent density functionals for ground and excited states of one-electron systems?, [arXiv:2208.06482](https://arxiv.org/abs/2208.06482)
 
