@@ -24,7 +24,7 @@ These are in a rough order of accuracy - Google Scholar is most up to date.
    
 ### Current position
 
-Software Scientist at the Molecular Sciences Software Institute at Virginia Tech
+Academy research fellow
 
 [Docent](https://en.wikipedia.org/wiki/Docent) in computational chemistry at University of Helsinki 
 
