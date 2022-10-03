@@ -18,9 +18,8 @@ These are in a rough order of accuracy - Google Scholar is most up to date.
 | ---- | -- |
 | [Google Scholar](http://scholar.google.com/citations?user=M-OAnnwAAAAJ) | M-OAnnwAAAAJ |
 | [ORCID](http://orcid.org/0000-0001-6296-8103) | 0000-0001-6296-8103 |
-| [ResearcherID](http://www.researcherid.com/rid/H-1828-2013) | H-1828-2013 |
+| [Web of Science](https://www.webofscience.com/wos/author/rid/H-1828-2013) | H-1828-2013 |
 | [Scopus](http://www.scopus.com/authid/detail.uri?authorId=55586137400) | 55586137400 |
-| [Publons](http://publons.com/author/1202953/susi-lehtola) | 1202953 |
    
 ### Current position
 
