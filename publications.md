@@ -8,12 +8,12 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- **S. Lehtola** and M. A. L. Marques, Many recent density functionals are numerically ill-behaved, [arXiv:2206.14062](http://arxiv.org/abs/2206.14062)
 - S. Pathak, J. A. Rackers, I. E. López, R. L. Fernández, A. J. Lee, W. P. Bricker, and **S. Lehtola**, Accurate Hellmann-Feynman forces with optimized atom-centered Gaussian basis sets, [arXiv:2207.03587](https://arxiv.org/abs/2207.03587)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. S. Schwalbe, K. Trepte, and **S. Lehtola**, [How good are recent density functionals for ground and excited states of one-electron systems?](https://doi.org/10.1063/5.0120515), *J. Chem. Phys.*, in press (2022). doi:10.1063/5.0120515 [arXiv:2208.06482](https://arxiv.org/abs/2208.06482)
+1. **S. Lehtola** and M. A. L. Marques, Many recent density functionals are numerically ill-behaved, *J. Chem. Phys.*, in press (2022). [arXiv:2206.14062](http://arxiv.org/abs/2206.14062)
+1. S. Schwalbe, K. Trepte, and **S. Lehtola**, [How good are recent density functionals for ground and excited states of one-electron systems?](https://doi.org/10.1063/5.0120515), *J. Chem. Phys.*, in press (2022). doi:10.1063/5.0120515 [arXiv:2208.06482](https://arxiv.org/abs/2208.06482) **open access**
 1. V.-T. Salo, R. Valiev, **S. Lehtola**, and T. Kurt&eacute;n, [Gas-phase peroxyl radical recombination reactions: a computational study of formation and decomposition of tetroxides](https://doi.org/10.1021/acs.jpca.2c01321), *J. Phys. Chem. A* **126**, 4046 (2022). doi:10.1021/acs.jpca.2c01321
 1. **S. Lehtola** and A. Karttunen, [Free and open source software for computational chemistry education](https://doi.org/10.1002/wcms.1610), *Wiley Interdiscip. Rev. Comput. Mol. Sci.* **12**, e1610 (2022). doi:10.1002/wcms.1610 [chemRxiv:2021-hr1r0-v3](https://doi.org/10.26434/chemrxiv-2021-hr1r0-v3) **open access**
 1. M. F. Kasim, **S. Lehtola**, and S. M. Vinko, [DQC: a Python program package for Differentiable Quantum Chemistry](https://doi.org/10.1063/5.0076202), *J. Chem. Phys.* **156**, 084801 (2022). doi:10.1063/5.0076202 [arXiv:2110.11678](http://arxiv.org/abs/2110.11678) **open access**
