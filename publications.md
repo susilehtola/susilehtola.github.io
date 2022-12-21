@@ -7,11 +7,11 @@ permalink: /publications/
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
 
-Some preprints of articles currently in review:
-- S. Pathak, J. A. Rackers, I. E. López, R. L. Fernández, A. J. Lee, W. P. Bricker, and **S. Lehtola**, Accurate Hellmann-Feynman forces with optimized atom-centered Gaussian basis sets, [arXiv:2207.03587](https://arxiv.org/abs/2207.03587)
+<!--Some preprints of articles currently in review:-->
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. S. Pathak, I. E. López, A. J. Lee, W. P. Bricker, R. L. Fernández, **S. Lehtola** and J. A. Rackers, [Accurate Hellmann--Feynman forces from density functional calculations with augmented Gaussian basis sets](https://doi.org/10.1063/5.0130668), *J. Chem. Phys.*, in press (2022). doi:10.1063/5.0130668 [arXiv:2207.03587](https://arxiv.org/abs/2207.03587)
 1. **S. Lehtola** and M. A. L. Marques, [Many recent density functionals are numerically ill-behaved](https://doi.org/10.1063/5.0121187), *J. Chem. Phys.* **157**, 174114 (2022). doi:10.1063/5.0121187 [arXiv:2206.14062](http://arxiv.org/abs/2206.14062)
 1. S. Schwalbe, K. Trepte, and **S. Lehtola**, [How good are recent density functionals for ground and excited states of one-electron systems?](https://doi.org/10.1063/5.0120515), *J. Chem. Phys.* **157**, 174113 (2022). doi:10.1063/5.0120515 [arXiv:2208.06482](https://arxiv.org/abs/2208.06482) **open access**
 1. V.-T. Salo, R. Valiev, **S. Lehtola**, and T. Kurt&eacute;n, [Gas-phase peroxyl radical recombination reactions: a computational study of formation and decomposition of tetroxides](https://doi.org/10.1021/acs.jpca.2c01321), *J. Phys. Chem. A* **126**, 4046 (2022). doi:10.1021/acs.jpca.2c01321
