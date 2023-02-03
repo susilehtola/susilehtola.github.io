@@ -7,7 +7,8 @@ permalink: /publications/
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
 
-<!--Some preprints of articles currently in review:-->
+Some preprints of articles currently in review:
+- **S. Lehtola**, Atomic electronic structure calculations with Hermite interpolating polynomials. [arXiv:2302.00440](https://arxiv.org/abs/2302.00440)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
