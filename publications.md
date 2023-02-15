@@ -10,7 +10,7 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - **S. Lehtola**, Atomic electronic structure calculations with Hermite interpolating polynomials. [arXiv:2302.00440](https://arxiv.org/abs/2302.00440)
 - **S. Lehtola**, Meta-GGA density functional calculations on atoms with spherically symmetric densities in the finite element formalism. [arXiv:2302.06284](https://arxiv.org/abs/2302.06284)
-- G. Li Manni et al, The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry. [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j)
+- G. Li Manni et al., The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry. [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
@@ -22,7 +22,7 @@ Here is a list of my peer-reviewed scientific publications in inverse chronologi
 1. M. F. Kasim, **S. Lehtola**, and S. M. Vinko, [DQC: a Python program package for Differentiable Quantum Chemistry](https://doi.org/10.1063/5.0076202), *J. Chem. Phys.* **156**, 084801 (2022). doi:10.1063/5.0076202 [arXiv:2110.11678](http://arxiv.org/abs/2110.11678) **open access**
 1. K. Trepte, S. Schwalbe, S. Liebing, W. T. Schulze, J. Kortus, H. Myneni, A. V. Ivanov, and **S. Lehtola**, [Chemical bonding theories as guides for self-interaction corrected solutions: multiple local minima and symmetry breaking](https://doi.org/10.1063/5.0071796), *J. Chem. Phys.* **155**, 224109 (2021). doi:10.1063/5.0071796 [arXiv:2109.08199](http://arxiv.org/abs/2109.08199) **open access**
 1. **S. Lehtola**, [Straightforward and accurate automatic auxiliary basis set generation for molecular calculations with atomic orbital basis sets](https://doi.org/10.1021/acs.jctc.1c00607), *J. Chem. Theory Comput.* **17**, 6886 (2021). doi:10.1021/acs.jctc.1c00607 [arXiv:2106.11081](http://arxiv.org/abs/2106.11081)
-1. E. Epifanovsky el al., [Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package](https://doi.org/10.1063/5.0055522), *J. Chem. Phys.* **155**, 084801 (2021). doi:10.1063/5.0055522 **open access**
+1. E. Epifanovsky et al., [Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package](https://doi.org/10.1063/5.0055522), *J. Chem. Phys.* **155**, 084801 (2021). doi:10.1063/5.0055522 **open access**
 1. G. Bilalbegovi&#x0107;, A. Maksimovi&#x0107;, L. A. Valencic, and **S. Lehtola**, [Sulfur molecules in space by X-rays: a computational study](https://doi.org/10.1021/acsearthspacechem.0c00238), *ACS Earth Space Chem.* **5**, 436 (2021). doi:10.1021/acsearthspacechem.0c00238 **open access**
 1. R. K. Jinger, H. Fliegl, R. Bast, M. Dimitrova, **S. Lehtola**, and D. Sundholm, [Spatial contributions to nuclear magnetic shieldings](https://doi.org/10.1021/acs.jpca.0c10884), *J. Phys. Chem. A* **125**, 1778 (2021). doi:10.1021/acs.jpca.0c10884 [arXiv:2012.03048](http://arxiv.org/abs/2012.03048) **open access**
 1. **S. Lehtola**, M. Dimitrova, H. Fliegl, and D. Sundholm, [Benchmarking magnetizabilities with recent density functionals](https://doi.org/10.1021/acs.jctc.0c01190), *J. Chem. Theory Comput.* **17**, 1457 (2021). doi:10.1021/acs.jctc.0c01190 [arXiv:2011.06560](http://arxiv.org/abs/2011.06560) **open access** [Erratum](https://doi.org/10.1021/acs.jctc.1c00466)
