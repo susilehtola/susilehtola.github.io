@@ -10,6 +10,7 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - **S. Lehtola**, Atomic electronic structure calculations with Hermite interpolating polynomials. [arXiv:2302.00440](https://arxiv.org/abs/2302.00440)
 - **S. Lehtola**, Meta-GGA density functional calculations on atoms with spherically symmetric densities in the finite element formalism. [arXiv:2302.06284](https://arxiv.org/abs/2302.06284)
+- G. Li Manni et al, The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry. [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
