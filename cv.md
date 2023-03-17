@@ -90,6 +90,7 @@ administrator level. Packager for Fedora Linux; sponsor and provenpackager statu
 
 | Term | Course | Level | Role |
 | ---- | ------ | ----- | ---- |
+| spring 2023 | Numerical Methods in Scientific Computing | graduate | lecturer |
 | spring 2019 | Scientific Computing III | graduate | lecturer |
 | spring 2018 | Molecular properties | postgraduate | teaching assistant |
 | fall 2012 | Scientific Programming in C | graduate | lecturer |
