@@ -6,6 +6,8 @@ permalink: /publications/
 
 ![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
 
+<center>Cover graphics by Jyrki Hokkanen, CSC - IT Center for Science Ltd.</center>
+
 
 Some preprints of articles currently in review:
 - **S. Lehtola**, Atomic electronic structure calculations with Hermite interpolating polynomials. [arXiv:2302.00440](https://arxiv.org/abs/2302.00440)
