@@ -10,11 +10,11 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- **S. Lehtola**, Note on "All-Electron Plane-Wave Electronic Structure Calculations". [arXiv:2302.09557](https://arxiv.org/abs/2302.09557)
+- **S. Lehtola**, On the accuracy of a recent regularized nuclear potential. [arXiv:2302.09557](https://arxiv.org/abs/2302.09557)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. G. Li Manni et al., The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry. *J. Chem. Theory Comput.*, in press (2023). [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j)
+1. G. Li Manni et al., [The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry](https://doi.org/10.1021/acs.jctc.3c00182). *J. Chem. Theory Comput.*, in press (2023). doi:10.1021/acs.jctc.3c00182 [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j) **open access**
 1. **S. Lehtola**, [Atomic electronic structure calculations with Hermite interpolating polynomials](https://doi.org/10.1021/acs.jpca.3c00729). *J. Phys. Chem. A* **127**, 4180 (2023). doi:10.1021/acs.jpca.3c00729 [arXiv:2302.00440](https://arxiv.org/abs/2302.00440) **open access**
 1. **S. Lehtola**, [Meta-GGA density functional calculations on atoms with spherically symmetric densities in the finite element formalism](https://doi.org/10.1021/acs.jctc.3c00183), *J. Chem. Theory Comput.* **19**, 2502 (2023). doi:10.1021/acs.jctc.3c00183 [arXiv:2302.06284](https://arxiv.org/abs/2302.06284) **open access**
 1. S. Pathak, I. E. L&oacute;pez, A. J. Lee, W. P. Bricker, R. L. Fern&aacute;ndez, **S. Lehtola** and J. A. Rackers, [Accurate Hellmann--Feynman forces from density functional calculations with augmented Gaussian basis sets](https://doi.org/10.1063/5.0130668), *J. Chem. Phys.*  **158**, 014104 (2023). doi:10.1063/5.0130668 [arXiv:2207.03587](https://arxiv.org/abs/2207.03587)
