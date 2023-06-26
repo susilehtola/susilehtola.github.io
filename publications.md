@@ -11,6 +11,7 @@ permalink: /publications/
 
 Some preprints of articles currently in review:
 - **S. Lehtola**, Automatic generation of accurate and cost-efficient auxiliary basis sets, [arXiv:2306.11039](https://arxiv.org/abs/2306.11039)
+- C. J. Schattenberg, A. Wody&#324;ski, H. &Aring;str&ouml;m, D. Sundholm, M. Kaupp, and **Susi Lehtola**, Gauge-independent kinetic energy densities in meta-GGAs and local hybrid calculations of magnetizabilities, [arXiv:2306.13407](https://arxiv.org/abs/2306.13407)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
