@@ -17,7 +17,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. **S. Lehtola**, [Accuracy of a recent regularized nuclear potential](https://doi.org/10.1021/acs.jctc.3c00530). *J. Chem. Theory Comput.* **19**, 4033 (2023). doi:10.1021/acs.jctc.3c00530 [arXiv:2302.09557](https://arxiv.org/abs/2302.09557)
+1. **S. Lehtola**, [Accuracy of a recent regularized nuclear potential](https://doi.org/10.1021/acs.jctc.3c00530). *J. Chem. Theory Comput.* **19**, 4033 (2023). doi:10.1021/acs.jctc.3c00530 [arXiv:2302.09557](https://arxiv.org/abs/2302.09557) **open access**
 1. G. Li Manni et al., [The OpenMolcas Web: a community-driven approach to advancing computational chemistry](https://doi.org/10.1021/acs.jctc.3c00182). *J. Chem. Theory Comput.*, in press (2023). doi:10.1021/acs.jctc.3c00182 [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j) **open access**
 1. **S. Lehtola**, [Atomic electronic structure calculations with Hermite interpolating polynomials](https://doi.org/10.1021/acs.jpca.3c00729). *J. Phys. Chem. A* **127**, 4180 (2023). doi:10.1021/acs.jpca.3c00729 [arXiv:2302.00440](https://arxiv.org/abs/2302.00440) **open access**
 1. **S. Lehtola**, [Meta-GGA density functional calculations on atoms with spherically symmetric densities in the finite element formalism](https://doi.org/10.1021/acs.jctc.3c00183), *J. Chem. Theory Comput.* **19**, 2502 (2023). doi:10.1021/acs.jctc.3c00183 [arXiv:2302.06284](https://arxiv.org/abs/2302.06284) **open access**
