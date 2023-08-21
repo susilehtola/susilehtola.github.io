@@ -23,5 +23,6 @@ and am a contributor to a number of other FOSS projects including
 
 + [Psi4](https://github.com/psi4/psi4)
 + [PySCF](https://github.com/pyscf/pyscf)
++ [OpenMolcas](https://gitlab.com/Molcas/OpenMolcas)
 + [Fedora Linux](https://fedoraproject.org/)
 
