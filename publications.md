@@ -10,7 +10,6 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- **S. Lehtola**, Automatic generation of accurate and cost-efficient auxiliary basis sets, [arXiv:2306.11039](https://arxiv.org/abs/2306.11039)
 - C. J. Schattenberg, A. Wody&#324;ski, H. &Aring;str&ouml;m, D. Sundholm, M. Kaupp, and **S. Lehtola**, Gauge-independent kinetic energy densities in meta-GGAs and local hybrid calculations of magnetizabilities, [arXiv:2306.13407](https://arxiv.org/abs/2306.13407)
 - T. B. Pedersen, **S. Lehtola**, I. F. Galv&#225;n, and R. Lindh, The versatility of the Cholesky decomposition in electronic structure theory, [chemRxiv:2023-579sk-v2](https://doi.org/10.26434/chemrxiv-2023-579sk-v2)
 - H. &Aring;str&ouml;m and **S. Lehtola**, Insight on Gaussian basis set truncation errors in weak to intermediate magnetic fields with an approximate Hamiltonian, [arXiv:2307.02635](https://arxiv.org/abs/2307.02635)
@@ -18,6 +17,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. **S. Lehtola**, Automatic generation of accurate and cost-efficient auxiliary basis sets, *J. Chem. Theory Comput.*, in press (2023). [arXiv:2306.11039](https://arxiv.org/abs/2306.11039) **open access**
 1. **S. Lehtola**, [Accuracy of a recent regularized nuclear potential](https://doi.org/10.1021/acs.jctc.3c00530). *J. Chem. Theory Comput.* **19**, 4033 (2023). doi:10.1021/acs.jctc.3c00530 [arXiv:2302.09557](https://arxiv.org/abs/2302.09557) **open access**
 1. G. Li Manni et al., [The OpenMolcas Web: a community-driven approach to advancing computational chemistry](https://doi.org/10.1021/acs.jctc.3c00182). *J. Chem. Theory Comput.*, in press (2023). doi:10.1021/acs.jctc.3c00182 [chemRxiv:2023-b7f0j](https://doi.org/10.26434/chemrxiv-2023-b7f0j) **open access**
 1. **S. Lehtola**, [Atomic electronic structure calculations with Hermite interpolating polynomials](https://doi.org/10.1021/acs.jpca.3c00729). *J. Phys. Chem. A* **127**, 4180 (2023). doi:10.1021/acs.jpca.3c00729 [arXiv:2302.00440](https://arxiv.org/abs/2302.00440) **open access**
