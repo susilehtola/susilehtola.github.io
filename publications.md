@@ -13,6 +13,7 @@ Some preprints of articles currently in review:
 - C. J. Schattenberg, A. Wody&#324;ski, H. &Aring;str&ouml;m, D. Sundholm, M. Kaupp, and **S. Lehtola**, Gauge-independent kinetic energy densities in meta-GGAs and local hybrid calculations of magnetizabilities, [arXiv:2306.13407](https://arxiv.org/abs/2306.13407)
 - T. B. Pedersen, **S. Lehtola**, I. F. Galv&#225;n, and R. Lindh, The versatility of the Cholesky decomposition in electronic structure theory, [chemRxiv:2023-579sk-v4](https://doi.org/10.26434/chemrxiv-2023-579sk-v4)
 - H. &Aring;str&ouml;m and **S. Lehtola**, Insight on Gaussian basis set truncation errors in weak to intermediate magnetic fields with an approximate Hamiltonian, [arXiv:2307.02635](https://arxiv.org/abs/2307.02635)
+- **S. Lehtola**, A call to arms: making the case for more reusable libraries, [arXiv:2309.02433](https://arxiv.org/abs/2309.02433)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
