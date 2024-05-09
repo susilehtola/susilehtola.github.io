@@ -13,6 +13,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. V. Blum et al., [Roadmap on methods and software for electronic structure based simulations in chemistry and materials](https://doi.org/10.1088/2516-1075/ad48ec), *Electron. Struct.*, in press (2024). doi:10.1088/2516-1075/ad48ec **open access**
 1. **S. Lehtola**, [Importance profiles. Visualization of atomic basis set requirements](https://doi.org/10.1088/2516-1075/ad31ca), *Electron. Struct.* 6, 015015 (2024). doi:10.1088/2516-1075/ad31ca [arXiv:2309.14844](https://arxiv.org/abs/2309.14844) **open access**
 1. H. &Aring;str&ouml;m and **S. Lehtola**, [Insight on Gaussian basis set truncation errors in weak to intermediate magnetic fields with an approximate Hamiltonian](https://doi.org/10.1021/acs.jpca.3c04531), *J. Phys. Chem. A* 127, 10872 (2023). doi:10.1021/acs.jpca.3c04531 [arXiv:2307.02635](https://arxiv.org/abs/2307.02635) **open access**
 1. C. J. Schattenberg, A. Wody&#324;ski, H. &Aring;str&ouml;m, D. Sundholm, M. Kaupp, and **S. Lehtola**, [Revisiting gauge-independent kinetic energy densities in meta-GGAs and local hybrid calculations of magnetizabilities](https://doi.org/10.1021/acs.jpca.3c06244), *J. Phys. Chem. A* 127, 10896 (2023). doi:10.1021/acs.jpca.3c06244 [arXiv:2306.13407](https://arxiv.org/abs/2306.13407) **open access**
