@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- S. Schwalbe, W. T. Schulze, K. Trepte, and **Susi Lehtola**, [Ensemble Generalization of the Perdew-Zunger Self-Interaction Correction: a Way Out of Multiple Minima and Symmetry Breaking](https://arxiv.org/abs/2405.18394), arXiv:2405.18394
+- S. Schwalbe, W. T. Schulze, K. Trepte, and **Susi Lehtola**, [Ensemble generalization of the Perdew--Zunger self-interaction correction: a way out of multiple minima and symmetry breaking](https://arxiv.org/abs/2405.18394), arXiv:2405.18394
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
