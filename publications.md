@@ -9,7 +9,8 @@ permalink: /publications/
 <center>Cover graphics by Jyrki Hokkanen, CSC - IT Center for Science Ltd.</center>
 
 
-<!--Some preprints of articles currently in review:-->
+Some preprints of articles currently in review:
+- J. Kobus and **S. Lehtola**, Review of the finite difference Hartree--Fock method for atoms and diatomic molecules, and its implementation in the x2dhf program, [arXiv:2408.03679](https://arxiv.org/abs/2408.03679)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
