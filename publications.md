@@ -11,6 +11,7 @@ permalink: /publications/
 
 Some preprints of articles currently in review:
 - J. Kobus and **S. Lehtola**, Review of the finite difference Hartree--Fock method for atoms and diatomic molecules, and its implementation in the x2dhf program, [arXiv:2408.03679](https://arxiv.org/abs/2408.03679)
+- H. &Aring;str&ouml;m and **S. Lehtola**, Systematic study of confinement induced effects on atomic electronic structure, [arXiv:2408.11595](https://arxiv.org/abs/2408.11595)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
