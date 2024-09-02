@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Group
-permalink: /cv/
+permalink: /group/
 ---
 
 ### Graduate students
