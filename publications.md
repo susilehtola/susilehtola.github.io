@@ -11,10 +11,12 @@ permalink: /publications/
 
 Some preprints of articles currently in review:
 - J. Kobus and **S. Lehtola**, Review of the finite difference Hartree--Fock method for atoms and diatomic molecules, and its implementation in the x2dhf program, [arXiv:2408.03679](https://arxiv.org/abs/2408.03679)
-- H. &Aring;str&ouml;m and **S. Lehtola**, Systematic study of confinement induced effects on atomic electronic structure, [arXiv:2408.11595](https://arxiv.org/abs/2408.11595)
+- **S. Lehtola** and M. Head-Gordon, Coupled-cluster pairing models for radicals with strong correlations, [arXiv:2501.06422](https://arxiv.org/abs/2501.06422)
+- K. Nordlund, **S. Lehtola**, and G. Hobler, Repulsive interatomic potentials calculated at three levels of theory, [arXiv:2501.06617](https://arxiv.org/abs/2501.06617)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. H. &Aring;str&ouml;m and **S. Lehtola**, Systematic study of confinement induced effects on atomic electronic structure, *J. Phys. Chem. A*, in press (2025). [arXiv:2408.11595](https://arxiv.org/abs/2408.11595)
 1. S. Schwalbe, W. T. Schulze, K. Trepte, and **S. Lehtola**, [Ensemble generalization of the Perdew--Zunger self-interaction correction: a way out of multiple minima and symmetry breaking](https://doi.org/10.1021/acs.jctc.4c00694), *J. Chem. Theory Comput.* 20, 7144 (2024). doi:10.1021/acs.jctc.4c00694 [arXiv:2405.18394](https://arxiv.org/abs/2405.18394) **open access**
 1. V. Blum et al., [Roadmap on methods and software for electronic structure based simulations in chemistry and materials](https://doi.org/10.1088/2516-1075/ad48ec), *Electron. Struct.* 6, 042501 (2024). doi:10.1088/2516-1075/ad48ec **open access**
 1. **S. Lehtola**, [Importance profiles. Visualization of atomic basis set requirements](https://doi.org/10.1088/2516-1075/ad31ca), *Electron. Struct.* 6, 015015 (2024). doi:10.1088/2516-1075/ad31ca [arXiv:2309.14844](https://arxiv.org/abs/2309.14844) **open access**
