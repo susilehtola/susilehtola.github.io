@@ -12,6 +12,7 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - **S. Lehtola** and M. Head-Gordon, Coupled-cluster pairing models for radicals with strong correlations, [arXiv:2501.06422](https://arxiv.org/abs/2501.06422)
 - K. Nordlund, **S. Lehtola**, and G. Hobler, Repulsive interatomic potentials calculated at three levels of theory, [arXiv:2501.06617](https://arxiv.org/abs/2501.06617)
+- U. Ahmed, M. P. Johansson, **S. Lehtola**, and D. Sundholm, Density functional benchmark for quadruple hydrogen bonds,  [arXiv:2503.02423](https://arxiv.org/abs/2503.02423)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
