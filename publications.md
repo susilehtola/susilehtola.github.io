@@ -4,9 +4,9 @@ title: List of publications
 permalink: /publications/
 ---
 
-![](/images/PCCP_cover.jpg) ![](/images/ijqc_cover.jpg)
+![](/images/jpca_cover.jpg) ![](/images/ijqc_cover.jpg)
 
-<center>Cover graphics by Jyrki Hokkanen, CSC - IT Center for Science Ltd.</center>
+<center>Cover graphics by Monica Lindholm, and Jyrki Hokkanen (CSC - IT Center for Science Ltd).</center>
 
 
 Some preprints of articles currently in review:
@@ -18,7 +18,7 @@ Here is a list of my peer-reviewed scientific publications in inverse chronologi
 
 1. K. Nordlund, **S. Lehtola**, and G. Hobler, Repulsive interatomic potentials calculated at three levels of theory, *Phys. Rev. A*, in press (2025). [arXiv:2501.06617](https://arxiv.org/abs/2501.06617)
 1. J. Kobus and **S. Lehtola**, [Review of the finite difference Hartree--Fock method for atoms and diatomic molecules, and its implementation in the x2dhf program](https://doi.org/10.1016/j.cpc.2025.109576), *Comput. Phys. Commun.* 311, 109576 (2025). doi:10.1016/j.cpc.2025.109576 [arXiv:2408.03679](https://arxiv.org/abs/2408.03679)
-1. H. &Aring;str&ouml;m and **S. Lehtola**, [Systematic study of hard-wall confinement induced effects on atomic electronic structure](https://doi.org/10.1021/acs.jpca.4c05641), *J. Phys. Chem. A*, in press (2025). doi:10.1021/acs.jpca.4c05641 [arXiv:2408.11595](https://arxiv.org/abs/2408.11595) **open access**
+1. H. &Aring;str&ouml;m and **S. Lehtola**, [Systematic study of hard-wall confinement induced effects on atomic electronic structure](https://doi.org/10.1021/acs.jpca.4c05641), *J. Phys. Chem. A* 129, 2791 (2025). doi:10.1021/acs.jpca.4c05641 [arXiv:2408.11595](https://arxiv.org/abs/2408.11595) **open access**
 1. S. Schwalbe, W. T. Schulze, K. Trepte, and **S. Lehtola**, [Ensemble generalization of the Perdew--Zunger self-interaction correction: a way out of multiple minima and symmetry breaking](https://doi.org/10.1021/acs.jctc.4c00694), *J. Chem. Theory Comput.* 20, 7144 (2024). doi:10.1021/acs.jctc.4c00694 [arXiv:2405.18394](https://arxiv.org/abs/2405.18394) **open access**
 1. V. Blum et al., [Roadmap on methods and software for electronic structure based simulations in chemistry and materials](https://doi.org/10.1088/2516-1075/ad48ec), *Electron. Struct.* 6, 042501 (2024). doi:10.1088/2516-1075/ad48ec **open access**
 1. **S. Lehtola**, [Importance profiles. Visualization of atomic basis set requirements](https://doi.org/10.1088/2516-1075/ad31ca), *Electron. Struct.* 6, 015015 (2024). doi:10.1088/2516-1075/ad31ca [arXiv:2309.14844](https://arxiv.org/abs/2309.14844) **open access**
@@ -87,3 +87,7 @@ Here is a list of my peer-reviewed scientific publications in inverse chronologi
 
 My PhD thesis can be found here:
 [Computational modeling of the electron momentum density](https://urn.fi/URN:ISBN:978-952-10-8091-3).
+
+ ![](/images/PCCP_cover.jpg)
+
+<center>Cover graphics by Jyrki Hokkanen (CSC - IT Center for Science Ltd).</center>
