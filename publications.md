@@ -16,7 +16,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. K. Nordlund, **S. Lehtola**, and G. Hobler, Repulsive interatomic potentials calculated at three levels of theory, *Phys. Rev. A*, in press (2025). [arXiv:2501.06617](https://arxiv.org/abs/2501.06617)
+1. K. Nordlund, **S. Lehtola**, and G. Hobler, [Repulsive interatomic potentials calculated at three levels of theory](https://doi.org/10.1103/PhysRevA.111.032818), *Phys. Rev. A* 111, 032818 (2025). [arXiv:2501.06617](https://arxiv.org/abs/2501.06617) **open access**
 1. J. Kobus and **S. Lehtola**, [Review of the finite difference Hartree--Fock method for atoms and diatomic molecules, and its implementation in the x2dhf program](https://doi.org/10.1016/j.cpc.2025.109576), *Comput. Phys. Commun.* 311, 109576 (2025). doi:10.1016/j.cpc.2025.109576 [arXiv:2408.03679](https://arxiv.org/abs/2408.03679)
 1. H. &Aring;str&ouml;m and **S. Lehtola**, [Systematic study of hard-wall confinement induced effects on atomic electronic structure](https://doi.org/10.1021/acs.jpca.4c05641), *J. Phys. Chem. A* 129, 2791 (2025). doi:10.1021/acs.jpca.4c05641 [arXiv:2408.11595](https://arxiv.org/abs/2408.11595) **open access** [cover feature](https://pubs.acs.org/toc/jpcafh/129/11)
 1. S. Schwalbe, W. T. Schulze, K. Trepte, and **S. Lehtola**, [Ensemble generalization of the Perdew--Zunger self-interaction correction: a way out of multiple minima and symmetry breaking](https://doi.org/10.1021/acs.jctc.4c00694), *J. Chem. Theory Comput.* 20, 7144 (2024). doi:10.1021/acs.jctc.4c00694 [arXiv:2405.18394](https://arxiv.org/abs/2405.18394) **open access**
