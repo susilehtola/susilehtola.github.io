@@ -10,12 +10,12 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- **S. Lehtola** and M. Head-Gordon, Coupled-cluster pairing models for radicals with strong correlations, [arXiv:2501.06422](https://arxiv.org/abs/2501.06422)
 - U. Ahmed, M. P. Johansson, **S. Lehtola**, and D. Sundholm, Density functional benchmark for quadruple hydrogen bonds, [arXiv:2503.02423](https://arxiv.org/abs/2503.02423)
 - L. Nikkanen, F. Pavošević, and **S. Lehtola**, Nuclear-electronic calculations need uncontracted basis sets on the quantum protons, [arXiv:2503.03966](https://arxiv.org/abs/2503.03966)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. **S. Lehtola** and M. Head-Gordon, Coupled-cluster pairing models for radicals with strong correlations, *Mol. Phys.*, in press (2025). [arXiv:2501.06422](https://arxiv.org/abs/2501.06422)
 1. K. Nordlund, **S. Lehtola**, and G. Hobler, [Repulsive interatomic potentials calculated at three levels of theory](https://doi.org/10.1103/PhysRevA.111.032818), *Phys. Rev. A* **111**, 032818 (2025). [arXiv:2501.06617](https://arxiv.org/abs/2501.06617) **open access**
 1. J. Kobus and **S. Lehtola**, [Review of the finite difference Hartree--Fock method for atoms and diatomic molecules, and its implementation in the x2dhf program](https://doi.org/10.1016/j.cpc.2025.109576), *Comput. Phys. Commun.* **311**, 109576 (2025). doi:10.1016/j.cpc.2025.109576 [arXiv:2408.03679](https://arxiv.org/abs/2408.03679)
 1. H. &Aring;str&ouml;m and **S. Lehtola**, [Systematic study of hard-wall confinement induced effects on atomic electronic structure](https://doi.org/10.1021/acs.jpca.4c05641), *J. Phys. Chem. A* **129**, 2791 (2025). doi:10.1021/acs.jpca.4c05641 [arXiv:2408.11595](https://arxiv.org/abs/2408.11595) **open access** [cover feature](https://pubs.acs.org/toc/jpcafh/129/11)
