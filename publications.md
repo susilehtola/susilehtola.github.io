@@ -12,6 +12,7 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - U. Ahmed, M. P. Johansson, **S. Lehtola**, and D. Sundholm, Density functional benchmark for quadruple hydrogen bonds, [arXiv:2503.02423](https://arxiv.org/abs/2503.02423)
 - L. Nikkanen, F. Pavošević, and **S. Lehtola**, Nuclear-electronic calculations need uncontracted basis sets on the quantum protons, [arXiv:2503.03966](https://arxiv.org/abs/2503.03966)
+- **S. Lehtola** and L. A. Burns, OpenOrbitalOptimizer---a reusable open source library for self-consistent field calculations, [arXiv:2503.23034](https://arxiv.org/abs/2503.23034)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
