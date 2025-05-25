@@ -70,6 +70,8 @@ administrator level. Packager for Fedora Linux; sponsor and provenpackager statu
 
 | Year | Position |
 | ---- | -------- |
+| 2025-     | Vice director of Theoretical and Computational Methods (TCM) Master's Programme |
+| | Department of Chemistry, University of Helsinki, Finland|
 | 2022-2027 | Academy of Finland research fellow |
 | | Department of Chemistry, University of Helsinki, Finland|
 | 2020-2022 | Software Scientist |
@@ -90,6 +92,7 @@ administrator level. Packager for Fedora Linux; sponsor and provenpackager statu
 
 | Term | Course | Level | Role |
 | ---- | ------ | ----- | ---- |
+| fall 2024 | Molecular Electronic Structure Theory | postgraduate | lecturer |
 | spring 2023 | Numerical Methods in Scientific Computing | graduate | lecturer |
 | spring 2019 | Scientific Computing III | graduate | lecturer |
 | spring 2018 | Molecular properties | postgraduate | teaching assistant |
