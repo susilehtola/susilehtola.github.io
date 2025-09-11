@@ -15,7 +15,8 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
-1. H. &Aring;str&ouml;m and **S. Lehtola**, Atomic confinement potentials and the generation of numerical atomic orbitals, APL Comput. Phys., in press (2025). [arXiv:2505.09540](https://arxiv.org/abs/2505.09540)
+1. H. &Aring;str&ouml;m and **S. Lehtola**, [Atomic confinement potentials and the generation of numerical atomic orbitals](https://doi.org/10.1063/5.0280816), *APL Comput. Phys.* **1**, 016105 (2025). doi:10.1063/5.0280816
+ [arXiv:2505.09540](https://arxiv.org/abs/2505.09540)
 1. **S. Lehtola** and L. A. Burns, [OpenOrbitalOptimizer---a reusable open source library for self-consistent field calculations](https://doi.org/10.1021/acs.jpca.5c02110), *J. Phys. Chem. A* **129**, 5651 (2025). doi:10.1021/acs.jpca.5c02110 [arXiv:2503.23034](https://arxiv.org/abs/2503.23034) **open access**
 1. U. Ahmed, M. P. Johansson, **S. Lehtola**, and D. Sundholm, [Density functional benchmark for quadruple hydrogen bonds](https://doi.org/10.1039/d5cp00836k), *Phys. Chem. Chem. Phys.* **27**, 8706 (2025). doi:10.1039/d5cp00836k [arXiv:2503.02423](https://arxiv.org/abs/2503.02423) **open access**
 1. **S. Lehtola** and M. Head-Gordon, [Coupled-cluster pairing models for radicals with strong correlations](https://doi.org/10.1080/00268976.2025.2489096), *Mol. Phys.*, e2489096 (2025). doi:10.1080/00268976.2025.2489096 [arXiv:2501.06422](https://arxiv.org/abs/2501.06422)
