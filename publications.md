@@ -12,10 +12,10 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - L. Nikkanen, F. Pavošević, and **S. Lehtola**, Nuclear-electronic calculations need uncontracted basis sets on the quantum protons, [arXiv:2503.03966](https://arxiv.org/abs/2503.03966)
 - J. W. Abbott et al, Roadmap on advancements of the FHI-aims software package, [arXiv:2505.00125](https://arxiv.org/abs/2505.00125)
-- J. Greiner, I.-M. Høyvik, **S. Lehtola**, and J. J. Eriksen, A reusable library for second-order orbital optimization using the trust region method, [arXiv:2509.13931](https://arxiv.org/abs/2509.13931)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. J. Greiner, I.-M. Høyvik, **S. Lehtola**, and J. J. Eriksen, A reusable library for second-order orbital optimization using the trust region method, *J. Chem. Theory Comput.*, in press. [arXiv:2509.13931](https://arxiv.org/abs/2509.13931)
 1. H. &Aring;str&ouml;m and **S. Lehtola**, [Atomic confinement potentials and the generation of numerical atomic orbitals](https://doi.org/10.1063/5.0280816), *APL Comput. Phys.* **1**, 016105 (2025). doi:10.1063/5.0280816  [arXiv:2505.09540](https://arxiv.org/abs/2505.09540) **open access**
 1. **S. Lehtola** and L. A. Burns, [OpenOrbitalOptimizer---a reusable open source library for self-consistent field calculations](https://doi.org/10.1021/acs.jpca.5c02110), *J. Phys. Chem. A* **129**, 5651 (2025). doi:10.1021/acs.jpca.5c02110 [arXiv:2503.23034](https://arxiv.org/abs/2503.23034) **open access**
 1. U. Ahmed, M. P. Johansson, **S. Lehtola**, and D. Sundholm, [Density functional benchmark for quadruple hydrogen bonds](https://doi.org/10.1039/d5cp00836k), *Phys. Chem. Chem. Phys.* **27**, 8706 (2025). doi:10.1039/d5cp00836k [arXiv:2503.02423](https://arxiv.org/abs/2503.02423) **open access**
