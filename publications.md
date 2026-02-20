@@ -12,6 +12,7 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - L. Nikkanen and **S. Lehtola**, Reaching precise proton affinities in non-Born-Oppenheimer calculations, [arXiv:2503.03966](https://arxiv.org/abs/2503.03966)
 - J. W. Abbott et al, Roadmap on advancements of the FHI-aims software package, [arXiv:2505.00125](https://arxiv.org/abs/2505.00125)
+- F. Tran, **S. Lehtola**, S. Pittalis, and Miguel A. L. Marques, Semi-local exchange-correlation approximations in density functional theory, [arXiv:2602.17333](https://arxiv.org/abs/2602.17333)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
