@@ -17,16 +17,16 @@ permalink: /group/
 ### MSc students
 
 * Joonatan Huhtasalo
-
-### BSc students
-
 * Luukas Nikkanen
+
+<!-- ### BSc students -->
 
 ### Visiting MSc students
 
 * [Emma Carels](https://www.universiteitleiden.nl/en/staffmembers/emma-carels), University of Leiden, Jan 2006
-* Bob Schreiner, ETH Zurich, Mar-Aug 2026
 * Kilian Glodny, TU Berlin, Mar-Aug 2026
+* Karina Kurbanova, Advanced Spectroscopy in Chemistry, Jan 2026-present
+* Bob Schreiner, ETH Zurich, Mar-Aug 2026
 
 ### Alumni
 
