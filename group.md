@@ -12,7 +12,6 @@ permalink: /group/
 
 * Hugo Åström
 * Milan Kunnatholy Babu
-* Tirthonkor Saikia
 
 ### MSc students
 
