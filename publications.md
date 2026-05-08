@@ -13,6 +13,7 @@ Some preprints of articles currently in review:
 - J. W. Abbott et al, Roadmap on advancements of the FHI-aims software package, [arXiv:2505.00125](https://arxiv.org/abs/2505.00125)
 - F. Tran, **S. Lehtola**, S. Pittalis, and Miguel A. L. Marques, Semi-local exchange-correlation approximations in density functional theory, [arXiv:2602.17333](https://arxiv.org/abs/2602.17333)
 - Q. Sun et al, The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project, [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
+- S. Lehtola, libwignernj: a reusable C/C++/Fortran/Python library for exact Wigner symbols and related coefficients, [arXiv:2605.06634](https://arxiv.org/abs/2605.06634)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
