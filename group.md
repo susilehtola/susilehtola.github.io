@@ -20,9 +20,12 @@ permalink: /group/
 
 <!-- ### BSc students -->
 
-### Visiting MSc students
+### Visiting PhD students
 
 * [Emma Carels](https://www.universiteitleiden.nl/en/staffmembers/emma-carels), University of Leiden, Jan 2006
+
+### Visiting MSc students
+
 * Kilian Glodny, TU Berlin, Mar-Aug 2026
 * Karina Kurbanova, Advanced Spectroscopy in Chemistry, Jan 2026-present
 * Bob Schreiner, ETH Zurich, Mar-Aug 2026
