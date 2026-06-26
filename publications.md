@@ -14,6 +14,7 @@ Some preprints of articles currently in review:
 - F. Tran, **S. Lehtola**, S. Pittalis, and Miguel A. L. Marques, Semi-local exchange-correlation approximations in density functional theory, [arXiv:2602.17333](https://arxiv.org/abs/2602.17333)
 - Q. Sun et al, The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project, [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
 - **S. Lehtola**, libwignernj: a reusable C/C++/Fortran/Python library for exact Wigner symbols and related coefficients, [arXiv:2605.06634](https://arxiv.org/abs/2605.06634)
+- H. &Aring;str&ouml;m and **S. Lehtola**, Real Quantum Chemistry With Complex Orbitals, [arXiv:2606.27160](https://arxiv.org/abs/2606.27160)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
