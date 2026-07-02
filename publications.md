@@ -10,7 +10,6 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- J. W. Abbott et al, Roadmap on advancements of the FHI-aims software package, [arXiv:2505.00125](https://arxiv.org/abs/2505.00125)
 - F. Tran, **S. Lehtola**, S. Pittalis, and Miguel A. L. Marques, Semi-local exchange-correlation approximations in density functional theory, [arXiv:2602.17333](https://arxiv.org/abs/2602.17333)
 - Q. Sun et al, The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project, [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
 - **S. Lehtola**, libwignernj: a reusable C/C++/Fortran/Python library for exact Wigner symbols and related coefficients, [arXiv:2605.06634](https://arxiv.org/abs/2605.06634)
@@ -18,6 +17,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. J. W. Abbott et al, [Roadmap on advancements of the FHI-aims software package](https://doi.org/10.1088/2516-1075/ae8067), *Electron. Struct.*, in press (2026). doi:10.1088/2516-1075/ae8067 [arXiv:2505.00125](https://arxiv.org/abs/2505.00125)
 1. L. Nikkanen and **S. Lehtola**, [Reaching precise proton affinities in non-Born-Oppenheimer calculations](https://doi.org/10.1063/5.0324809), *J. Chem. Phys.* **164**, 154113 (2026). doi:10.1063/5.0324809 [arXiv:2503.03966](https://arxiv.org/abs/2503.03966)
 1. J. Greiner, I.-M. Høyvik, **S. Lehtola**, and J. J. Eriksen, [A reusable library for second-order orbital optimization using the trust region method](https://doi.org/10.1021/acs.jctc.5c01576), *J. Chem. Theory Comput.* **22**, 881 (2026). doi:10.1021/acs.jctc.5c01576 [arXiv:2509.13931](https://arxiv.org/abs/2509.13931)
 1. H. &Aring;str&ouml;m and **S. Lehtola**, [Atomic confinement potentials and the generation of numerical atomic orbitals](https://doi.org/10.1063/5.0280816), *APL Comput. Phys.* **1**, 016105 (2025). doi:10.1063/5.0280816  [arXiv:2505.09540](https://arxiv.org/abs/2505.09540) **open access**
