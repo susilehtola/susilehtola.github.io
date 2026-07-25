@@ -27,7 +27,7 @@ Academy research fellow
 
 [Docent](https://en.wikipedia.org/wiki/Docent) in computational chemistry at University of Helsinki 
 
-Reviewer for the following journals (see also my [Publons profile](https://publons.com/author/1202953/susi-lehtola) which is probably more up to date):
+Reviewer for the following journals (see also my [Web of Science profile](https://www.webofscience.com/wos/author/rid/H-1828-2013) which is probably more up to date):
 + [AIP Advances](https://aip.scitation.org/journal/adv)
 + [Annalen der Physik](https://onlinelibrary.wiley.com/journal/15213889)
 + [Chemical Physics Letters](https://www.sciencedirect.com/journal/chemical-physics-letters)
