@@ -12,6 +12,7 @@ permalink: /publications/
 Some preprints of articles currently in review:
 - Q. Sun et al, The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project, [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
 - H. &Aring;str&ouml;m and **S. Lehtola**, Real Quantum Chemistry With Complex Orbitals, [arXiv:2606.27160](https://arxiv.org/abs/2606.27160)
+- **S. Lehtola**, Automatic generation of exchange-correlation response kernels, [arXiv:2608.26440](https://arxiv.org/abs/2608.26440)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
