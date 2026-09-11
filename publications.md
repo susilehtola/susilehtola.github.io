@@ -10,12 +10,12 @@ permalink: /publications/
 
 
 Some preprints of articles currently in review:
-- Q. Sun et al, The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project, [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
 - H. &Aring;str&ouml;m and **S. Lehtola**, Real quantum chemistry with complex orbitals, [arXiv:2606.27160](https://arxiv.org/abs/2606.27160)
 - **S. Lehtola**, Automatic generation of exchange-correlation response kernels, [arXiv:2608.26440](https://arxiv.org/abs/2608.26440)
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. Q. Sun et al, [The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project](https://doi.org/10.1063/5.0337441), *J. Chem. Phys.* **165**, 102502 (2026). doi:10.1063/5.0337441 [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
 1. **S. Lehtola**, [libwignernj: a reusable C/C++/Fortran/Python library for exact Wigner symbols and related coefficients](https://doi.org/10.1016/j.cpc.2026.110342), *Comput. Phys. Commun.* **329**, 110342 (2026). doi:10.1016/j.cpc.2026.110342 [arXiv:2605.06634](https://arxiv.org/abs/2605.06634)
 1. F. Tran, **S. Lehtola**, S. Pittalis, and M. A. L. Marques, Semi-local exchange-correlation approximations in density functional theory, *Chem. Rev.*, in press (2026). doi:10.1021/acs.chemrev.6c00170 [arXiv:2602.17333](https://arxiv.org/abs/2602.17333)
 1. J. W. Abbott et al, [Roadmap on advancements of the FHI-aims software package](https://doi.org/10.1088/2516-1075/ae8067), *Electron. Struct.*, in press (2026). doi:10.1088/2516-1075/ae8067 [arXiv:2505.00125](https://arxiv.org/abs/2505.00125)
