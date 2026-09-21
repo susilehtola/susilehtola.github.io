@@ -14,6 +14,7 @@ Some preprints of articles currently in review:
 
 Here is a list of my peer-reviewed scientific publications in inverse chronological order. Note that the first five (last on the list) are under my ex first name.
 
+1. **S. Lehtola**, L. Visscher, and E. Engel, Reply to Comment on "Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis sets", *J. Chem. Phys.*, in press (2026).
 1. **S. Lehtola**, Automatic generation of exchange-correlation response kernels, *J. Chem. Phys.*, in press (2026). [arXiv:2608.26440](https://arxiv.org/abs/2608.26440)
 1. Q. Sun et al, [The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project](https://doi.org/10.1063/5.0337441), *J. Chem. Phys.* **165**, 102502 (2026). doi:10.1063/5.0337441 [arXiv:2603.14155](https://arxiv.org/abs/2603.14155)
 1. **S. Lehtola**, [libwignernj: a reusable C/C++/Fortran/Python library for exact Wigner symbols and related coefficients](https://doi.org/10.1016/j.cpc.2026.110342), *Comput. Phys. Commun.* **329**, 110342 (2026). doi:10.1016/j.cpc.2026.110342 [arXiv:2605.06634](https://arxiv.org/abs/2605.06634)
